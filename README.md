@@ -11,4 +11,4 @@
 - В корне проекта ```docker compose up```
 
 ## Пример работы дополнительной ручки:
-![alt text](new_route.png)
+![alt text](new_route.jpg)
