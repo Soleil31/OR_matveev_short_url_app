@@ -1,0 +1,10 @@
+services:
+  app:
+    container_name: 
+      short_url
+    build:
+      context: .
+    volumes:
+      - ./database/url.db:/app/database/url.db
+    ports:
+      - 8000:80
